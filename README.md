@@ -1,2 +1,1 @@
-# recipe-app-api
-Recipe App API source code
+Real Estate Web Application Using Django
